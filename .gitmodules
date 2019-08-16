@@ -1,0 +1,3 @@
+[submodule "src/jdupes"]
+	path = src/jdupes
+	url = https://github.com/jbruchon/jdupes
